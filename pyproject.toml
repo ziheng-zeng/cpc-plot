@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cpc-plot"
+name = "cpc-data-plotter"
 version = "0.1.0"
 description = "Plot CPC concentration logs and CPC FARM size-distribution data."
 requires-python = ">=3.10"
@@ -15,4 +15,3 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
-

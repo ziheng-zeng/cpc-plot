@@ -1,4 +1,4 @@
-# CPC Plot
+# CPC Data Plotter
 
 Python plotting scripts for condensation particle counter (CPC) data. This repo focuses on offline analysis: reading logged CPC CSV files, plotting concentration time series, comparing instruments, and building CPC FARM size-distribution contour plots.
 
